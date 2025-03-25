@@ -3,6 +3,6 @@ I'm Vishnu, a passionate backend engineer currently at Shopdeck. I build scalabl
 
 Beyond my professional work, I enjoy working on hobby projects that address real-life problems and experimenting with innovative ideas. I believe in the power of technology to make everyday tasks simpler and more effective.
 
-Let's connect!
+### Let's connect!
+[<img alt="Portfolio" src="" />](www.linkedin.com/in/vishnu-kt)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://vishnukt.github.io/)
-[<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />](www.linkedin.com/in/vishnu-kt)
