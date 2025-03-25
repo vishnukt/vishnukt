@@ -6,9 +6,5 @@ Beyond my professional work, I enjoy working on hobby projects that address real
 
 #### Let's connect!
 
-<a href="https://vishnukt.github.io/" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=Porfolio&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vishnu-kt" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-</a>
+[<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=Porfolio&logoColor=white"/>](https://vishnukt.github.io/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/vishnu-kt)
